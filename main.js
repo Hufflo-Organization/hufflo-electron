@@ -1,6 +1,6 @@
 const { app, BrowserWindow, shell } = require("electron/main");
 
-const WEBSITE_URL = "https://dev.hufflo.com/login";
+const WEBSITE_URL = "https://www.hufflo.com/login";
 
 let mainWindow;
 
