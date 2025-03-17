@@ -8,7 +8,6 @@ const createWindow = () => {
   mainWindow = new BrowserWindow({
     width: 1400,
     height: 800,
-    icon: "assets/512x512.png",
   });
 
   mainWindow.loadURL(WEBSITE_URL);
